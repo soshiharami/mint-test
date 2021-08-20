@@ -1,0 +1,19 @@
+{
+  "name": "test-mint",
+  "application": {
+    "head": "assets/head.html",
+    "title": "test-mint",
+    "icon": "assets/favicon.png"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
